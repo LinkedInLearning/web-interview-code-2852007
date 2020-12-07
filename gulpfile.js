@@ -14,11 +14,6 @@ function html() {
 function js() {
   return gulp
     .src(source + '/js/script.js')
-    .pipe(
-      babel({
-        presets: ['@babel/preset-env'],
-      })
-    )
     .pipe(gulp.dest(dest + '/js'))
 }
 
