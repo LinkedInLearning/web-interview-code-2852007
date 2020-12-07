@@ -35,7 +35,7 @@ function styles() {
 function watch() {
   gulp.watch(source + '/js/**/*.js', js)
   gulp.watch(source + '/postcss/**/*.css', styles)
-  gulp.watch(source + '/scss/style.scss', processSass)
+  gulp.watch(source + '/scss/**/*.scss', processSass)
   gulp.watch(source + '/index.html', html)
 }
 
