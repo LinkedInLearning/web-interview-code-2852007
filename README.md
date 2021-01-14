@@ -1,6 +1,6 @@
 # Mastering Web Developer Interview Code
 
-This is the repository for my course Mastering Web Developer Interview Code. The full course is available on [LinkedIn Learning](http://bit.ly/2j2L8RN).
+This is the repository for my course Mastering Web Developer Interview Code. The full course is available on [LinkedIn Learning](https://www.linkedin.com/learning/mastering-web-developer-interview-code-2).
 
 Whether you're actively looking for a new job, or you just want to keep your coding skills sharp, it's important to refresh your understanding of the kinds of front-end and full-stack developer code that potential employers value. In this weekly series, senior staff author explores essential coding skills that every developer should have in their toolkit. In addition to taking you through a series of brief, practical exercises, this course includes interviews with hiring managers and industry professionals that can help demystify the interview process for web developers, and provide you with examples of how others in the field have navigated their careers. Tune in every Tuesday for a new tip.
 
