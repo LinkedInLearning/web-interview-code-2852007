@@ -15,7 +15,7 @@
     "gulp-postcss": "^8.0.0",
     "gulp-sass": "^4.1.0",
     "gulp-server-io": "^1.5.1",
-    "postcss": "^8.0.5"
+    "postcss": "^8.2.10"
   },
   "author": "Ray Villalobos",
   "false": {}
